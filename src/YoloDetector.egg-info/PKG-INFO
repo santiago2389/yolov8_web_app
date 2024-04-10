@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: YoloDetector
+Version: 0.0.0
+Summary: A small python package for CNN obj detection web app
+Home-page: https://github.com/santiago/yolov8_web_app
+Author: santiago
+Author-email: santoshkamble24@gmail.com
+Project-URL: Bug Tracker, https://github.com/santiago/yolov8_web_app/issues
+
+# yolov8_web_app
